@@ -24,7 +24,7 @@ npm run start
 - Open the Expo Go app on your device and scan the QR code displayed in the terminal to load the app.
  
 ## iOS
- 
+
 - Download [Expo Go app on App Store](https://apps.apple.com/us/app/expo-go/id982107779).
-- AJOUTER LES STEPS DE MAXIME
-- Open the Expo Go app on your device and scan the QR code displayed in the terminal to load the app.
+- Open the camera from your device and scan the QR code displayed in the terminal to load the app.
+- A popup will appear to open the Expo Go app, click on it.
