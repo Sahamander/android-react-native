@@ -26,5 +26,6 @@ npm run start
 ## iOS
 
 - Download [Expo Go app on App Store](https://apps.apple.com/us/app/expo-go/id982107779).
+- Run this command ```npm rm react-native-screens```
 - Open the camera from your device and scan the QR code displayed in the terminal to load the app.
 - A popup will appear to open the Expo Go app, click on it.
